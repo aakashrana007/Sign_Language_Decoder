@@ -2,7 +2,7 @@
 
 The Sign Language Decoder is an innovative tool that translates sign language gestures into readable text or speech. Using advanced machine learning algorithms, it facilitates real-time communication between individuals who use sign language and those who do not.
 
-This project was developed for the KEC LITE 2024 Project Demonstration event, showcasing innovative solutions and advancements in technology. The Sign Language Decoder aims to promote inclus
+This project was developed for the KEC LITE 2024 Project Demonstration event, showcasing innovative solutions and advancements in technology. The Sign Language Decoder highlights how technology can be harnessed to create impactful social change, facilitating better communication and understanding between individuals.
 ## Features
 
 - Real-time sign language gesture recognition
