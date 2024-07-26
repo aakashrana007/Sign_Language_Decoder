@@ -1,0 +1,35 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model files (if you have large pre-trained models)
+*.pkl
+*.h5
+
+# Data files (if large datasets are used)
+*.csv
+*.xlsx
+
+# Miscellaneous
+*.tmp
+*.bak
+*.swp
