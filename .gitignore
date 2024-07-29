@@ -26,8 +26,8 @@ Thumbs.db
 *.h5
 
 # Data files (if large datasets are used)
-*.csv
-# *.xlsx
+# *.csv
+*.xlsx
 
 # Miscellaneous
 *.tmp
